@@ -12,7 +12,6 @@ None
   * data type: string
   * description: the student feedback for the mentors from file
 
-
 ## Instance methods
 
 ### ```__init__```
